@@ -1,5 +1,6 @@
 ![](assets/Bottom_up.svg)
 
+<div align="center">
 <br>
 
 ![](./src/header_.png)
@@ -25,7 +26,6 @@
 
 <br>
 
-<div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{lackoy}" width="600" height="300"/>
 </a>
@@ -35,3 +35,5 @@
 ## 🔗 Contact information
 - **Email:** [lackoy09@gmail.com](mailto:lackoy09@gmail.com)
 - **Instagram:** [@5an._x](https://www.instagram.com/5an._x)
+
+</div>
