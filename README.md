@@ -16,6 +16,10 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 </div>
 
+---
+
+### 🏆 Baekjoon Tier
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lackoy)](https://solved.ac/lackoy)
 
 ## Contact information
 - **Email:** [lackoy09@gmail.com](mailto:lackoy09@gmail.com)
