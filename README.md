@@ -1,12 +1,13 @@
 ![](assets/Bottom_up.svg)
 
 <div align="center">
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{lackoy}" width="600" height="300"/>
 </a>
-<br>
-
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!-- ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Hanseong+Lee;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
