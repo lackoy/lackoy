@@ -24,7 +24,7 @@
 ### 🏆 Baekjoon Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lackoy)](https://solved.ac/lackoy)
 
-<br>
+<br><hr>
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{lackoy}" width="600" height="300"/>
