@@ -1,4 +1,4 @@
-# Hi there! I'm the developer, Lee Han Seong
+# Hi there! I'm Hanseong 👋
 </br>
 
 <div align="center">
