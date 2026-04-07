@@ -62,12 +62,15 @@
 
 ## 🔗 Contact Information
 
-<a href="mailto:lackoy09@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/5an._x">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<div align="center">
+  <a href="mailto:lackoy09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/5an._x">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-lackoy09-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</div>
 
 <br><br>
 
