@@ -18,5 +18,5 @@
 
 
 ## Contact information
-- **이메일:** [lackoy09@gmail.com](mailto:lackoy09@gmail.com)
-- **인스타그램:** [@5an._x](https://www.instagram.com/5an._x)
+- **Email:** [lackoy09@gmail.com](mailto:lackoy09@gmail.com)
+- **Instagram:** [@5an._x](https://www.instagram.com/5an._x)
