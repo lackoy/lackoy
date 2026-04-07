@@ -48,6 +48,13 @@
 
 <br>
 
+### 📈 GitHub Stats
+
+<img src="https://streak-stats.demolab.com?user=lackoy&theme=radical&hide_border=true" height="165" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lackoy&theme=radical" height="165" />
+<br/>
+
+<br>
+
 ### 🏆 Baekjoon Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lackoy)](https://solved.ac/lackoy)
 
