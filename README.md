@@ -57,7 +57,7 @@ Motto   : "Build, Break, Learn, Repeat."</pre>
 <details>
   <summary><b>🔮 Things I'm Focusing On Right Now (Click to expand)</b></summary>
   <br/>
-  - 🧩 In-Depth Studying of AI, Infrastructure, and Security <br/>
+  - 🧩 In-Depth Studying of AI, Infra, and Security <br/>
   - ⚙️ Learning Rust, C++ language <br/>
   - 🌐 Developing a full-stack web app project
 </details>
