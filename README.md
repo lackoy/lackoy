@@ -80,6 +80,8 @@ Motto   : "Build, Break, Learn, Repeat."</pre>
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lackoy&bg_color=13111C&color=D8B4FE&line=C084FC&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
+<img src="https://raw.githubusercontent.com/lackoy/lackoy/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 ---
 
 ### 🔗 Connect
