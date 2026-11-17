@@ -1,0 +1,35 @@
+name: Generate Snake Animation
+
+on:
+  # 12시간마다 자동 실행
+  schedule:
+    - cron: "0 */12 * * *"
+  # 수동 실행 버튼 활성화
+  workflow_dispatch:
+  # main 브랜치에 푸시할 때마다 실행
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
